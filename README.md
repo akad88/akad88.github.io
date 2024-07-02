@@ -1,7 +1,7 @@
 # Electrical Engineering Student @ UIUC
 
 
-### Work Experience
+#### WORK EXPERIENCE
 **Kautex Textron - Manufacturing Engineering Intern**
 
 - Automated parameter logging system of Siemens PLCs using ThingWorx IIoT platform allowing for real-time data visualization and monitoring of connected devices and sensors
@@ -10,7 +10,7 @@
 
 *Skills: PLC Programming, ThingWorx, Siemens TIA Portal, Industrial Robotics, Ladder Logic, Sensor Integration, HMI Configuration, Automation, Electrical Wiring*
 
-### Research Experience
+#### RESEARCH EXPERIENCE
 
 **Promoting Undergraduate Research in Engineering (PURE) - Robotics/Acoustics Researcher**
 
@@ -19,6 +19,8 @@
 - Utilized Python to program communication over CAN bus to robotics components enabling motion synchronization
 - Simulated testing of “SpiderBot” in virtual environment using Gazebo physics engine 
 
-*Skills: ROS2, Python, Gazebo, CAN, Motor Control, Electrical Wiring, Raspberry Pi, Simulation**
+*Skills: ROS2, Python, Gazebo, CAN, Motor Control, Electrical Wiring, Raspberry Pi, Simulation*
 
-### Projects
+#### PROJECTS
+
+**LED Sine Wave Pitch Detector**
