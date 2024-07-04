@@ -1,7 +1,7 @@
 # Electrical Engineering Student @ UIUC
 
 
-#### WORK EXPERIENCE
+## WORK EXPERIENCE
 **KAUTEX TEXTRON - Manufacturing Engineering Intern**
 
 - Automated parameter logging system of Siemens PLCs using ThingWorx IIoT platform allowing for real-time data visualization and monitoring of connected devices and sensors
@@ -12,7 +12,7 @@
 
 ![Kautex Textron](/img/Kautex_Textron.png)
 
-#### RESEARCH EXPERIENCE
+## RESEARCH EXPERIENCE
 
 **PROMOTING UNDERGRADUATE RESEARCH IN ENGINEERING (PURE) - Robotics/Acoustics Researcher**
 
@@ -25,6 +25,6 @@
 
 ![PURE Research Poster](/img/PURE_Research_Poster.png)
 
-#### PROJECTS
+## PROJECTS
 
 **LED Sine Wave Pitch Detector**
