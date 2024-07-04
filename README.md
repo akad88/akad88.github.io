@@ -23,6 +23,8 @@
 
 *Skills: ROS2, Python, Gazebo, CAN, Motor Control, Electrical Wiring, Raspberry Pi, Simulation*
 
+![PURE RESEARCH POSTER] (img/PURE_RESEARCH_POSTER.png)
+
 #### PROJECTS
 
 **LED Sine Wave Pitch Detector**
