@@ -10,7 +10,7 @@
 
 *Skills: PLC Programming, ThingWorx, Siemens TIA Portal, Industrial Robotics, Ladder Logic, Sensor Integration, HMI Configuration, Automation, Electrical Wiring*
 
-
+![Kautex Textron](/img/Kautex_Textron.png)
 
 #### RESEARCH EXPERIENCE
 
@@ -23,7 +23,7 @@
 
 *Skills: ROS2, Python, Gazebo, CAN, Motor Control, Electrical Wiring, Raspberry Pi, Simulation*
 
-![PURE RESEARCH POSTER](/img/PURE_Research_Poster.png)
+![PURE Research Poster](/img/PURE_Research_Poster.png)
 
 #### PROJECTS
 
