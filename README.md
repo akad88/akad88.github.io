@@ -23,7 +23,7 @@
 
 *Skills: ROS2, Python, Gazebo, CAN, Motor Control, Electrical Wiring, Raspberry Pi, Simulation*
 
-![PURE RESEARCH POSTER](/img/PURE_RESEARCH_POSTER.png)
+![PURE RESEARCH POSTER](/img/PURE_Research_Poster.png)
 
 #### PROJECTS
 
