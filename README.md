@@ -24,6 +24,7 @@
 *Skills: ROS2, Python, Gazebo, CAN, Motor Control, Electrical Wiring, Raspberry Pi, Simulation*
 
 ![PURE Research Poster](/img/PURE_Research_Poster.png)
+       PURE Research Poster for 2024 Symposium
 
 ## PROJECTS
 
