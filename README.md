@@ -2,7 +2,7 @@
 
 
 #### WORK EXPERIENCE
-**Kautex Textron - Manufacturing Engineering Intern**
+**KAUTEX TEXTRON - Manufacturing Engineering Intern**
 
 - Automated parameter logging system of Siemens PLCs using ThingWorx IIoT platform allowing for real-time data visualization and monitoring of connected devices and sensors
 - Integrated OPC UA communication protocol between Beckhoff PLC and eWON Flexy router to develop an HMI to display sensor data of welding machines
@@ -10,9 +10,11 @@
 
 *Skills: PLC Programming, ThingWorx, Siemens TIA Portal, Industrial Robotics, Ladder Logic, Sensor Integration, HMI Configuration, Automation, Electrical Wiring*
 
+
+
 #### RESEARCH EXPERIENCE
 
-**Promoting Undergraduate Research in Engineering (PURE) - Robotics/Acoustics Researcher**
+**PROMOTING UNDERGRADUATE RESEARCH IN ENGINEERING (PURE) - Robotics/Acoustics Researcher**
 
 - Developed stepper motor control scheme for automated acoustic sensor-source positioning system using ROS2 and Raspberry Pi resulting in precise motion trajectories
 - Integrated acoustic sensor to analyze noise produced by system in operation allowing for optimized orientation of motors to minimize audio interference
