@@ -33,8 +33,6 @@
 - Developed band-pass filter bank to process sound frequencies through continuous analog signal processing testing
 - Incorporated filtering and signal averaging techniques to minimize noise improving pitch detection accuracy
 
-*Skills: Signal Processing, Circuit Design, Filter Design, Oscilloscope Testing, FRA Analysis*
-
 ![Filter Design](/img/Filter.png)
 
 
@@ -63,10 +61,13 @@ The peak hold detector holds the peak of the incoming frequency wave. It convert
 
 The comparator mux compares the DC signals corresponding to each respective filter. The filter that corresponds the closest to the input frequency should be the one that makes it through the mux.
 
+*Skills: Signal Processing, Circuit Design, Filter Design, Oscilloscope Testing, FRA Analysis*
+
 
 **ARDUINO SALINITY CONDUCTIVITY PROBE**
 - Designed a conductivity probe utilizing Arduino and C++ to analyze the NaCl concentrations of various water samples with over 90% accuracy
 - Utilized LCD screen to display salt concentration data and developed calculations to find voltage produced by probe
+
 
 *Skills: Arduino, C++, Probe Design, Salinity Analysis, Circuit Design*
 
