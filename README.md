@@ -68,9 +68,11 @@ The comparator mux compares the DC signals corresponding to each respective filt
 - Designed a conductivity probe utilizing Arduino and C++ to analyze the NaCl concentrations of various water samples with over 90% accuracy
 - Utilized LCD screen to display salt concentration data and developed calculations to find voltage produced by probe
 
+![Probe](/img/Probe.png)
 
 *Skills: Arduino, C++, Probe Design, Salinity Analysis, Circuit Design*
 
+**ESP32 Thermometer**
 
 
 
