@@ -39,11 +39,25 @@
 
 
 ***Basic design of low-pass filter***
+The low-pass filter frequency cutoff is calculated according to the RC values which follow a specific formula. The filter amplifies the input frequency signal the greatest if the signal is closest to the target frequency set by the filter.
 
-![FRA](/img/FRA_Graph.png)
+![FRA](/img/FRA.png)
 
 
 ***Frequency-response graph of filter corresponding to C4 note (261.63 Hz)***
+The frequency-response graph displays the peak of the blue curve which corresponds to the band-pass filter frequency cutoff.
+
+![Peak Hold](/img/Peak_Hold.png)
+
+
+***Peak hold detector which captures the peak of the input frequencies***
+The peak hold detector holds the peak of the incoming frequency wave. It converts the analog signal into a DC signal which the comparator works with more easily.
+
+![Compare](/img/Comparator_Mux.png)
+
+
+***Comparator mux compares frequencies to determine which frequency is closest to the input frequency***
+
 
 
 
