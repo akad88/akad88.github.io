@@ -39,24 +39,38 @@
 
 
 ***Basic design of low-pass filter***
+
 The low-pass filter frequency cutoff is calculated according to the RC values which follow a specific formula. The filter amplifies the input frequency signal the greatest if the signal is closest to the target frequency set by the filter.
 
 ![FRA](/img/FRA.png)
 
 
 ***Frequency-response graph of filter corresponding to C4 note (261.63 Hz)***
+
 The frequency-response graph displays the peak of the blue curve which corresponds to the band-pass filter frequency cutoff.
 
 ![Peak Hold](/img/Peak_Hold.png)
 
 
 ***Peak hold detector which captures the peak of the input frequencies***
+
 The peak hold detector holds the peak of the incoming frequency wave. It converts the analog signal into a DC signal which the comparator works with more easily.
 
 ![Compare](/img/Comparator_Mux.png)
 
 
 ***Comparator mux compares frequencies to determine which frequency is closest to the input frequency***
+
+The comparator mux compares the DC signals corresponding to each respective filter. The filter that corresponds the closest to the input frequency should be the one that makes it through the mux.
+
+
+**ARDUINO SALINITY CONDUCTIVITY PROBE**
+- Designed a conductivity probe utilizing Arduino and C++ to analyze the NaCl concentrations of various water samples with over 90% accuracy
+- Utilized LCD screen to display salt concentration data and developed calculations to find voltage produced by probe
+
+*Skills: Arduino, C++, Probe Design, Salinity Analysis, Circuit Design*
+
+
 
 
 
