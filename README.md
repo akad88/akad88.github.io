@@ -24,8 +24,18 @@
 *Skills: ROS2, Python, Gazebo, CAN, Motor Control, Electrical Wiring, Raspberry Pi, Simulation*
 
 ![PURE Research Poster](/img/PURE_Research_Poster.png)
-       PURE Research Poster for 2024 Symposium
+       **"PURE Research Poster for 2024 Symposium"**
 
 ## PROJECTS
 
-**LED Sine Wave Pitch Detector**
+**PURE TONE DETECTOR**
+- Designed LED display that shines light according to sound frequency input allowing for pitch visualization
+- Developed band-pass filter bank to process sound frequencies through continuous analog signal processing testing
+- Incorporated filtering and signal averaging techniques to minimize noise improving pitch detection accuracy
+
+*Skills: Signal Processing, Circuit Design, Filter Design, Oscilloscope Testing, FRA Analysis*
+
+
+
+
+
