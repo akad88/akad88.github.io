@@ -36,9 +36,13 @@
 *Skills: Signal Processing, Circuit Design, Filter Design, Oscilloscope Testing, FRA Analysis*
 
 ![Filter Design](/img/Filter.png)
+
+
 ***Basic design of low-pass filter***
 
 ![FRA](/img/FRA_Graph.png)
+
+
 ***Frequency-response graph of filter corresponding to C4 note (261.63 Hz)***
 
 
