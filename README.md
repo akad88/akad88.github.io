@@ -82,11 +82,15 @@ The comparator mux compares the DC signals corresponding to each respective filt
 
 [LINK TO ESP32 AND WEB SERVER CODE](https://github.com/akad88/ESP32_Thermometer)
 
+*Skills: ESP32, Sensor Configuration, Web Server Configuration, HTML*
+
 **MOTION DETECT**
 - Designed an algorithm to detect motion by comparing consecutive frames through applied blurs and grayscales
 - Developed a graphic rectangle that is placed on the object in motion
 
 [LINK TO MOTION DETECT CODE](https://github.com/akad88/MotionDetect)
+
+*Skills: Computer Vision, OpenCV, Python*
 
 
 
