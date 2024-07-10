@@ -61,6 +61,8 @@ The peak hold detector holds the peak of the incoming frequency wave. It convert
 
 The comparator mux compares the DC signals corresponding to each respective filter. The filter that corresponds the closest to the input frequency should be the one that makes it through the mux.
 
+[PURE TONE DETECTOR PROJECT: 10-PAGE FINAL REPORT (LINK)](https://docs.google.com/document/d/1KftHK9rTrtopyynFVfxw2QYx5-WAYjdU_OKWd9vxZMs/edit)
+
 *Skills: Signal Processing, Circuit Design, Filter Design, Oscilloscope Testing, FRA Analysis*
 
 
@@ -70,9 +72,22 @@ The comparator mux compares the DC signals corresponding to each respective filt
 
 ![Probe](/img/Probe.png)
 
+![LINK TO ARDUINO CODE](https://github.com/akad88/ArduinoSalinityProbe)
+
 *Skills: Arduino, C++, Probe Design, Salinity Analysis, Circuit Design*
 
-**ESP32 Thermometer**
+**ESP32 THERMOMETER**
+- Interfaced ESP32 with AD8495 Thermocouple Amplifier to measure and display temperature of various room settings
+- Developed separate web server to display temperature and voltage data with real-time readings
+
+![LINK TO ESP32 AND WEB SERVER CODE](https://github.com/akad88/ESP32_Thermometer)
+
+**MOTION DETECT**
+- Designed an algorithm to detect motion by comparing consecutive frames through applied blurs and grayscales
+- Developed a graphic rectangle that is placed on the object in motion
+
+![LINK TO MOTION DETECT CODE](https://github.com/akad88/MotionDetect)
+
 
 
 
