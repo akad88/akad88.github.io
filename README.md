@@ -72,7 +72,7 @@ The comparator mux compares the DC signals corresponding to each respective filt
 
 ![Probe](/img/Probe.png)
 
-![LINK TO ARDUINO CODE](https://github.com/akad88/ArduinoSalinityProbe)
+[LINK TO ARDUINO CODE](https://github.com/akad88/ArduinoSalinityProbe)
 
 *Skills: Arduino, C++, Probe Design, Salinity Analysis, Circuit Design*
 
@@ -80,13 +80,13 @@ The comparator mux compares the DC signals corresponding to each respective filt
 - Interfaced ESP32 with AD8495 Thermocouple Amplifier to measure and display temperature of various room settings
 - Developed separate web server to display temperature and voltage data with real-time readings
 
-![LINK TO ESP32 AND WEB SERVER CODE](https://github.com/akad88/ESP32_Thermometer)
+[LINK TO ESP32 AND WEB SERVER CODE](https://github.com/akad88/ESP32_Thermometer)
 
 **MOTION DETECT**
 - Designed an algorithm to detect motion by comparing consecutive frames through applied blurs and grayscales
 - Developed a graphic rectangle that is placed on the object in motion
 
-![LINK TO MOTION DETECT CODE](https://github.com/akad88/MotionDetect)
+[LINK TO MOTION DETECT CODE](https://github.com/akad88/MotionDetect)
 
 
 
